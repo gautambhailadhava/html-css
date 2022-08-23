@@ -1,0 +1,44 @@
+#a{
+    color:yellow;
+}
+#b{
+    color:red;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:medium;
+    background-color:blanchedalmond
+}
+#c{
+    color:blue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    font-variant: small-caps;
+}
+#d{
+    color:brown;
+    font-variant: inherit;
+    font-weight: 150;
+
+}
+.gautam{
+border: 30px dashed red;
+border-radius:30px;
+margin:20px;
+padding:30px;
+display: inline-block;
+float: left;
+
+}
+
+.darshan{
+    border:10px solid green;
+    display: inline-block;
+    float: right;
+}
+#sagar{
+    border:20px  solid black ;
+     margin: 20px;
+     padding:30px
+
+
+}

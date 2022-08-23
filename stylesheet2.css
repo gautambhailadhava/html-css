@@ -1,0 +1,18 @@
+#gautam{
+    color:red;
+    border: 3px solid;
+    margin: 15px;
+    padding: 35px;
+    width: 100px;
+    display: inline-block;
+}
+#sagar{
+    color:blue;
+    background-color: aquamarine;
+    margin: 35px;
+    padding: 10px;
+    border: 5px  dashed;
+    width: 100px;
+    height: 250px;
+    display: inline;
+}

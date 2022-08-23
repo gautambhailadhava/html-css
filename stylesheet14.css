@@ -1,0 +1,42 @@
+.con{
+    background-color: red;
+    display: block;
+}
+#box{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    position: relative;
+    /* animation-: gautam; */
+    animation-duration: 4s;
+    animation-iteration-count: 3;
+    /* animation-timing-function: ease-in; */
+    animation-name: gautam2;
+}
+@keyframes gautam2 {
+    
+    0%{
+     top:0px;
+     left:0px;
+    }
+    25%{
+
+        top:250px;
+        left:0px;
+
+    }
+    40%{
+        top: 350px;
+        left: 250px;
+
+    }
+    60%{top: 250px;
+        left:30px;
+
+
+    }
+    100%{
+        top:0px;
+        left:0px;
+    }
+}

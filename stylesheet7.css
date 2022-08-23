@@ -1,0 +1,12 @@
+header{
+    border:3px solid red;
+    border-radius: 20px;
+    margin: auto;
+    padding: 20px;
+}
+img{
+    display: inline-block;
+}
+h6{
+    display: inline-block;
+}

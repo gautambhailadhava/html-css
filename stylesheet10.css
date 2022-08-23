@@ -1,0 +1,29 @@
+.gautam{
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    
+    
+
+}
+#box1{
+    background-color: aqua;
+    position: relative;
+    top: 40px;
+}
+#box2{
+    background-color: blue;
+    position: relative;
+    top: 34px;
+}
+#box3{
+    background-color: blueviolet;
+    z-index: 5;
+    position: relative;
+}
+#box4{
+    background-color: brown;
+}
+#box5{
+    background-color: chartreuse;
+}

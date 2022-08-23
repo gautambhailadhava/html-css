@@ -1,0 +1,18 @@
+#gautam{
+    border:2px solid red;
+    border-radius: 5px;
+    margin:20px;
+    padding:40px;
+}
+
+.darshan{
+    color:green;
+    font-size:20px;
+    background-color:aquamarine;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+
+body{
+    background-image:url('ganpati.jpg')
+}

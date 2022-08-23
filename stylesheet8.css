@@ -1,0 +1,25 @@
+.gautam{
+    border:4px solid red;
+    width: 20px;
+    height:30px;
+    margin: 30px;;
+    padding:30px;
+    display: inline-block;
+    padding-top: 20px;
+}
+
+#box3{
+    position: static;
+    top: 40px;
+    left: 30px;
+}
+#box4{
+    position: relative;
+    top:40px;
+    left: 30px;
+}
+#box2{
+    position: absolute;
+    top: 20px;
+    right:3px
+}
